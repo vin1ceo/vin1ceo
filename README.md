@@ -1,4 +1,4 @@
-<div align="center"><h2>Welcome to the my profile!</h2></div>
+<div align="center"><h1>Welcome to the my profile!</h1></div>
 
 <div align="center">
   <h2>Tools and Technologies 👨‍💻</h2>
