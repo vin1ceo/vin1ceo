@@ -1,7 +1,7 @@
 <div align="center"><h2>Welcome to the my profile!</h2></div>
 
 <div align="center">
-  <h2>Tools and Softwares 👨‍💻</h2>
+  <h2>Tools and Technologies 👨‍💻</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 10px;" />
