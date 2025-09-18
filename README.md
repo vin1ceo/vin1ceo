@@ -1,7 +1,13 @@
 <div align="center"><h1>Welcome to the my profile!</h1></div>
 
 <div align="center">
-  <h2>Tools and Technologies 👨‍💻</h2>
+<h2> Hi, I'm Vinicius Alulas, a 20-year-old Computer Science student from Jundiaí, Brazil.  
+I have professional experience in IT support and currently work with data and technology solutions.  
+Passionate about learning, problem-solving, and building projects to improve my skills.</h2>
+</div>
+
+<div align="center">
+  <h2>👨‍💻 Tools and Technologies</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" style="margin: 0 10px;" />
@@ -9,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 0 10px;" />
 </div>
 
-### 📊 Minhas Estatísticas no GitHub
+<div><h2>📊 My statistics on GitHub</h2></div>
 
 <div align="center">
   <a href="https://github.com/vin1ceo">
