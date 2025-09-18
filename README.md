@@ -6,6 +6,7 @@ I have professional experience in IT support and currently work with data and te
 Passionate about learning, problem-solving, and building projects to improve my skills.</h3>
 </div>
 
+
 <div align="center">
   <h2>👨‍💻 Tools and Technologies</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 10px;" />
@@ -15,8 +16,8 @@ Passionate about learning, problem-solving, and building projects to improve my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 0 10px;" />
 </div>
 
-<div><h2>📊 My statistics on GitHub</h2></div>
 
+<div align ="center"><h2>📊 My statistics on GitHub</h2></div>
 <div align="center">
   <a href="https://github.com/vin1ceo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1ceo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
