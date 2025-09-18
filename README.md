@@ -1,9 +1,9 @@
 <div align="center"><h1>Welcome to the my profile!</h1></div>
 
-<div align="center">
-<h2> Hi, I'm Vinicius Alulas, a 20-year-old Computer Science student from Jundiaí, Brazil.  
+<div align="left">
+<h3> Hi, I'm Vinicius Alulas, a 20-year-old Computer Science student from Jundiaí, Brazil.  
 I have professional experience in IT support and currently work with data and technology solutions.  
-Passionate about learning, problem-solving, and building projects to improve my skills.</h2>
+Passionate about learning, problem-solving, and building projects to improve my skills.</h3>
 </div>
 
 <div align="center">
