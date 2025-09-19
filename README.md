@@ -20,8 +20,6 @@ Passionate about learning, problem-solving, and building projects to improve my 
 <div align ="center"><h2>📊 My statistics on GitHub</h2></div>
 <div align="center">
   <a href="https://github.com/vin1ceo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1ceo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1ceo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1ceo&theme=yeblu&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1ceo&theme=yeblu&show_icons=true&hide_border=false&layout=compact"/>  
 </div>
-
-
