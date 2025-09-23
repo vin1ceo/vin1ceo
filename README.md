@@ -7,11 +7,8 @@
     I have professional experience in IT support and currently work with data and technology solutions. <br>
     Passionate about learning, problem-solving, and building projects to improve my skills.
   </h3>
-  
   <br>
-
   ---
-  
   <h2>👨‍💻 Tools and Technologies</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
@@ -20,9 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
   </p>
-  
   ---
-
   <h2>📊 My GitHub Statistics</h2>
   <p>
     <a href="https://github.com/vin1ceo">
