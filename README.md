@@ -23,3 +23,5 @@ Passionate about learning, problem-solving, and building projects to improve my 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vin1ceo&theme=yeblu&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin1ceo&theme=yeblu&show_icons=true&hide_border=false&layout=compact"/>  
 </div>
+
+<a align = "left" href="https://www.linkedin.com/in/vin%C3%ADcius-alulas-732aa2191/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
